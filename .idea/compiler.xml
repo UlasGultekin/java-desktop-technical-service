@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Technic_Service" />
+        <module name="java-desktop-technical-service" />
       </profile>
     </annotationProcessing>
   </component>
